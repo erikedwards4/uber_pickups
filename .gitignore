@@ -1,0 +1,12 @@
+*
+!.gitignore
+!*.md
+!LICENSE
+!Makefile
+!.envrc
+!*.txt
+!*.sh
+!*.py
+!*.c
+!*.cc
+!*.cpp
